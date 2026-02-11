@@ -8,7 +8,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sudeep2412&label=Profile%20views&color=0e75b6&style=flat" alt="sudeep2412" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sudeep2412" alt="sudeep2412" /></a> </p>
 
 - 🔭 I’m currently working on **Real-Time CFD Surrogates using Physics-Informed Graph Neural Networks**
 
